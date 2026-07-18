@@ -6,6 +6,9 @@ public class sort {
     //  int a[]=new int[n];
     //   int r=0;
     //  for(int i=0;i<n;i++){
+
+
+    
     //     a[i]=s.nextInt();
        
     //     if(a[i]>r){
