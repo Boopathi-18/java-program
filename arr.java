@@ -12,6 +12,6 @@ public class arr {
         }
         System.out.println();
         for(int i=n-1;i>=0;i--)
-        System.out.print5(a[i]+" ");
+        System.out.print(a[i]+" ");
     }
 }
